@@ -19,8 +19,8 @@
         <div class="item" onclick="location.href='<?php echo base_url();?>product'">
             <img data-src="<?php echo base_url("assets/images/sb_2.jpg");?>" alt="900x500" src="<?php echo base_url("assets/images/banner-2.jpg");?>">
             <div class="carousel-caption">
-                <h3> Carve </h3>
-                <p> Carve your new style on Motion 9000.</p>
+                <h3> YAWN </h3>
+                <p> YAWN your new style on VIC20.</p>
             </div>
         </div>
 
